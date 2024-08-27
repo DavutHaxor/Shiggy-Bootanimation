@@ -11,3 +11,6 @@ Gif framerate = 50
 Screen resolution it's designed for = 2400x1080
 
 
+
+Shiggy 
+![shiggy](https://github.com/DavutHaxor/Shiggy-Bootanimation/blob/main/shiggy.gif)
